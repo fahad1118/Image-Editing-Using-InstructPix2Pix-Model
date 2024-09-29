@@ -75,7 +75,7 @@ The interface is built with **Gradio** and provides a simple yet powerful image 
 
   ```bash
   pip install torch diffusers transformers gradio pillow
-
+  ```
   ## Running the App
   
   ### 1. Clone the repository and navigate to the project directory.
