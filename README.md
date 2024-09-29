@@ -75,9 +75,9 @@ The interface is built with **Gradio** and provides a simple yet powerful image 
   1. Clone the repository and navigate to the project directory.
 
   2. Run the Python script to launch the Gradio app:
-       ```bash
+     ```bash
      pip python app.py
-    ```
+     ```
 
 ## Hugging Face Space
 
