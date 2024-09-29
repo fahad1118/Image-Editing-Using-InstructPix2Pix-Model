@@ -53,12 +53,6 @@ The interface is built with **Gradio** and provides a simple yet powerful image 
 
 - **Purpose**: Gradio is used to build the interactive user interface. It enables easy-to-use interfaces for uploading images, selecting colors, and providing textual instructions.
 
-## Justification for Model Choices
-
-- **InstructPix2Pix** was chosen because it is tailored for image editing based on text prompts. Its fine-tuned capability to follow instructions makes it perfect for users who want to modify images based on specific details.
-- **MarianMT** was selected due to its proficiency in handling Arabic-to-English translations. This was critical for enabling Arabic-speaking users to interact with the app.
-- **Gradio** was chosen to create a user-friendly interface with RTL (right-to-left) support for Arabic speakers. Its flexibility allows for rapid prototyping and deployment of the project.
-
 ## Special Measures for Arabic Language Support
 
 - **Full Arabic Interface**: The Gradio interface is fully translated into Arabic, including all text inputs, buttons, and labels, to provide an intuitive experience for Arabic-speaking users.
