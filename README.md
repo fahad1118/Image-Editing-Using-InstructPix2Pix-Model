@@ -70,11 +70,14 @@ The interface is built with **Gradio** and provides a simple yet powerful image 
   ```bash
   pip install torch diffusers transformers gradio pillow
   ```
-  ## Running the App
+## Running the App
   
-  ### 1. Clone the repository and navigate to the project directory.
+  1. Clone the repository and navigate to the project directory.
 
-  ### 2. Run the Python script to launch the Gradio app:
+  2. Run the Python script to launch the Gradio app:
+       ```bash
+     pip python app.py
+    ```
 
 ## Hugging Face Space
 
