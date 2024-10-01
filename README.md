@@ -81,9 +81,15 @@ The interface is built with **Gradio** and provides a simple yet powerful image 
 
 ## Hugging Face Space
 
-  https://huggingface.co/spaces/fahad11182/image_editing/blob/main/app.py
+  https://huggingface.co/spaces/fahad11182/image_editing
 
 ## Github Link
 
 https://github.com/fahad1118/Image-Editing-Using-InstructPix2Pix-Model
 
+
+## InstructPix2Pix Model Paper
+
+https://arxiv.org/pdf/2211.09800
+
+https://github.com/fahad1118/Image-Editing-Using-InstructPix2Pix-Model
