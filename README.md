@@ -60,24 +60,6 @@ The interface is built with **Gradio** and provides a simple yet powerful image 
 - **Translation Pipeline**: A dedicated translation pipeline (using **MarianMT**) translates Arabic instructions into English, ensuring compatibility with models that expect English input.
 - **Arabic Color Names**: The app provides a list of common Arabic color names that are automatically translated into English before processing, ensuring a seamless user experience when changing paint colors.
 
-## How to Run the Project
-
-### Prerequisites
-
-- Python 3.7 or higher
-- Install the required libraries by running:
-
-  ```bash
-  pip install torch diffusers transformers gradio pillow
-  ```
-## Running the App
-  
-  1. Clone the repository and navigate to the project directory.
-
-  2. Run the Python script to launch the Gradio app:
-     ```bash
-     python app.py
-     ```
 
 ## Hugging Face Space
 
@@ -87,6 +69,9 @@ The interface is built with **Gradio** and provides a simple yet powerful image 
 
 https://github.com/fahad1118/Image-Editing-Using-InstructPix2Pix-Model
 
+## Recording
+
+https://drive.google.com/file/d/1KJsLprSarrrhy6WDNpQkp2Lc36jQFG8J/view?usp=sharing
 
 ## InstructPix2Pix Model Paper
 
