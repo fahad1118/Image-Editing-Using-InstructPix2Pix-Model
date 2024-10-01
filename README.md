@@ -92,4 +92,3 @@ https://github.com/fahad1118/Image-Editing-Using-InstructPix2Pix-Model
 
 https://arxiv.org/pdf/2211.09800
 
-https://github.com/fahad1118/Image-Editing-Using-InstructPix2Pix-Model
